@@ -1,0 +1,14 @@
+Step one:
+1. Add basic_repo to my github account.
+2. mkdir basic_repo
+3. touch index.html
+4. touch style.css
+5. git init
+6. basic boiler-plate in html and a style in css; save
+7. add, commit
+8. push with remote repo's URL (2x)
+9. touch outline.txt
+10. vi simple.txt
+11. i + enter in editing screen
+12. After I write this I will ESC, enter ":wq", hit ENTER andit will exit out of this typing screen and save this and all above to "outline.txt" 
+
